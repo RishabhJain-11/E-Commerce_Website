@@ -8,7 +8,7 @@ const Layout = ({children}) => {
     <div className='layout'>
       <Head>
         <title>
-          JS Mastery Store
+          HeadMusico.io
         </title>
       </Head>
       <header>
